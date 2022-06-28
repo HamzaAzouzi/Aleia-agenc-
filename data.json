@@ -1,0 +1,34 @@
+{
+  "maisons":[
+    {
+        "image":"../images/image1.jpg",
+        "price":"$4.354.365",
+        "location":"9315 NightingGale Dr."
+    },
+    {
+        "image":"../images/image2.jpg",
+        "price":"$4.354.365",
+        "location":"215 Milford Dr.        "
+    },
+    {
+        "image":"../images/image3.jpg",
+        "price":"$4.354.365",
+        "location":"14953 Sutton St°        "
+    },
+    {
+        "image":"../images/image4.jpg",
+        "price":"$4.354.365",
+        "location":"1301 Dolphin Terrace"
+    },
+    {
+        "image":"../images/image5.jpg",
+        "price":"$4.354.365",
+        "location":"9315 NightingGale Dr."
+    },
+    {
+        "image":"../images/image6.jpg",
+        "price":"$4.354.365",
+        "location":"9315 NightingGale Dr."
+    }
+]
+}
